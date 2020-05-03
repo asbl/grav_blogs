@@ -4,7 +4,6 @@ date: 11-04-2020
 draft: false
 type: post
 author: asbl
-draft: false
 categories:
   - Politik
 tags:
