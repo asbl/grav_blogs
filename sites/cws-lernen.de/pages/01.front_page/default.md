@@ -3,6 +3,6 @@
 title: Index
 ---
 
-[Moodle Anleitung](https://hackmd.io/@cws-lernen/BywqiuoHL/%2Fvo04w2zXTYKG8Lr5SLa6gQ)
+[Moodle Anleitung](https://kurzelinks.de/ngjc
 
 [CWS-Pad](https://pad.cws-lernen.de)
