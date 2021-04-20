@@ -106,9 +106,6 @@
       </div>
       <div class="clear"></div>
         {% endif %}
-
-    
-
     </div>
     {% endif %}
     <div class="post-content">
@@ -136,15 +133,6 @@
       {% else %}
       {{ page.content }}
       {% endif %}
-
-    <script src="https://utteranc.es/client.js"
-        repo="asbl/blog.it-teaching"
-        issue-term="url"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>  
     </div>
   </div>
   {% if show_prev_next %}
@@ -152,6 +140,7 @@
     {% if not page.isFirst %}
     <a class="post-nav-newer" href="{{ page.nextSibling.url }}"><i class="fa fa-chevron-left"></i> Newer Post</a>
     {% endif %}
+
     {% if not page.isLast %}
     <a class="post-nav-older" href="{{ page.prevSibling.url }}">Older Post <i class="fa fa-chevron-right"></i></a>
     {% endif %}
