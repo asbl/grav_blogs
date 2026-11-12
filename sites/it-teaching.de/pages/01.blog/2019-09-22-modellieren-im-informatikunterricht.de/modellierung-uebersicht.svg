@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 330" role="img" aria-labelledby="title desc">
+<title id="title">Informatische Modellierung: eine vereinfachte Übersicht</title>
+<desc id="desc">Von einer Fragestellung über ein informatisches Modell und eine Berechnung zur Prüfung der Ergebnisse. Rückmeldungen führen zur Überarbeitung des Modells.</desc>
+<metadata>Eigenständige schematische Darstellung. CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/</metadata>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#34495e"/></marker></defs>
+<rect width="1120" height="330" rx="12" fill="#f7fafc"/>
+<g fill="#e7f1fa" stroke="#2f5575" stroke-width="2">
+<rect x="24" y="65" width="235" height="105" rx="12"/>
+<rect x="303" y="65" width="235" height="105" rx="12"/>
+<rect x="582" y="65" width="235" height="105" rx="12"/>
+<rect x="861" y="65" width="235" height="105" rx="12"/>
+</g>
+<g font-family="sans-serif" font-size="22" text-anchor="middle" fill="#16354f">
+<text x="141" y="110">Phänomen /</text><text x="141" y="140">Fragestellung</text>
+<text x="420" y="110">Informatisches</text><text x="420" y="140">Modell</text>
+<text x="699" y="125">Berechnung</text>
+<text x="978" y="110">Ergebnisse</text><text x="978" y="140">prüfen</text>
+<text x="700" y="280" font-size="20">Rückmeldung: Modell überarbeiten</text>
+</g>
+<g fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#arrow)">
+<path d="M263 118H296"/><path d="M542 118H575"/><path d="M821 118H854"/>
+<path d="M978 177V235H420V177"/>
+</g>
+</svg>

@@ -191,9 +191,13 @@ Daher gefällt mir auch sehr gut die Formulierung, die in englischen Lehrplänen
 
 ## Der Modellierungskreislauf
 
-Ich kann nicht über Modellierung sprechen, ohne auch den Modellierungskreislauf nach [Hubert 2004](https://www.researchgate.net/publication/251201036_Essential_Ingredients_of_Literacy_in_Informatics) aufzugreifen
+Ich kann nicht über Modellierung sprechen, ohne auch den Modellierungskreislauf nach [Humbert und Puhlmann 2004](https://www.researchgate.net/publication/251201036_Essential_Ingredients_of_Literacy_in_Informatics) aufzugreifen
 
-![Modellierungskreislauf nach Humbert](humbert.png)
+![Eigene vereinfachte Übersicht zur informatischen Modellierung](modellierung-uebersicht.svg)
+
+Eigene vereinfachte Übersicht zur Orientierung; keine Reproduktion der Originalabbildung. Für das diskutierte Originalmodell siehe Humbert und Puhlmann (2004). Die neue Darstellung ist unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) freigegeben.
+
+**Literatur:** Humbert, Ludger; Puhlmann, Hermann (2004): *Essential Ingredients of Literacy in Informatics*. In: Johannes Magenheim und Sigrid Schubert (Hrsg.), *Informatics and Student Assessment. Concepts of Empirical Research and Standardisation of Measurement in the Area of Didactics of Informatics*, S. 65–76.
 
 Der Modellierungskreislauf ähnelt dem Modellierungskreislauf der aus der Mathematik-Fachdidaktik bekannt ist und skizziert, wie ausgehend von Phänomenen Aspekte der wirklichen Welt in informatische Modelle übersetzt und Ergebnisse rückübersetzt werden.
 
